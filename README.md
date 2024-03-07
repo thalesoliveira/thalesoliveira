@@ -32,9 +32,14 @@ ____
   <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="30" height="30"/> </a>  
   <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="30" height="30"/> </a> 
   <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://www.debian.org/logos/openlogo.svg" alt="debian" width="40" height="30"/> </a> 
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" 
+  height="36" alt="Python" /></a>
   
   <!--<a href="https://www.cypress.io" target="_blank"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a>-->
-  <!--<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>-->
+  <!--<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+  <a href="https://www.cypress.io" target="_blank" rel="noreferrer"><img src="https://static-00.iconduck.com/assets.00/cypress-icon-512x511-29zvfts6.png" width="36" height="36" alt="Cypress" /></a>
+  
+  -->
 </p>
 
 <h3>Quality Assurance:</h3>
@@ -46,7 +51,13 @@ ____
 ____
 
 <div>
-<a href="https://github.com/thalesoliveira">
-<img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thalesoliveira&layout=compact&langs_count=3&theme=dark"/>
-<img height="140em" src="https://github-readme-stats.vercel.app/api?username=thalesoliveira&show_icons=true&theme=dark&include_all_commits=false&count_private=true"/>
+  <a href="https://github.com/thalesoliveira">
+  <!--<img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thalesoliveira&layout=compact&langs_count=3&theme=dark"/>-->
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=thalesoliveira&show_icons=true&theme=dark&include_all_commits=false&count_private=true"/>
+  <div>   
+    <a href="https://github.com/thalesoliveira" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thalesoliveira&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+  </div>
 </div>  
+
+
+
