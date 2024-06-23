@@ -44,7 +44,7 @@ ____
 
 <h3>Quality Assurance:</h3>
 <p align="left">   
-  <a href="https://bstqb.online/" target="_blank"> <img src="https://bstqb.online/img/selos/Selo-FL.png" alt="Certified Tester Foundation Level" width="110" height="110"/> </a> 
+  <a href="https://bstqb.online/" target="_blank"> <img src="https://bstqb.online/img/selos/selo-ctfl.png" alt="Certified Tester Foundation Level" width="110" height="110"/> </a> 
   <a href="https://bstqb.online/" target="_blank"> <img src="https://bstqb.online/img/selos/Selo-AT.png" alt="Certified Tester Agile Tester" width="110" height="110"/> </a>  
 </p>
 
