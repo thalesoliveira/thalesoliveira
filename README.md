@@ -1,7 +1,3 @@
-# Olá, me chamo Thales Oliveira! 
-## Bem vindo ao meu perfil GitHub 👋
-Curto muito tecnologia e atuo profissionalmente desde 2013, nessa jornada tenho idas e vindas com tecnologia, momentos necessários de pausa se dedicando a outras questões nessa caminho. Entretanto os ciclos de aprendizado sempre são importantes.
-____
 
 ### Tech Stack
 
