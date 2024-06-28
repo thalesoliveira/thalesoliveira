@@ -21,11 +21,6 @@
   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/> </a> 
   <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="30" height="30"/> </a>
   <a href="https://www.cypress.io" target="_blank"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="35" height="35"/></a>
-  <a href="[https://www.cypress.io"](https://robotframework.org/) target="_blank"> <img src="https://icon-icons.com/icon/RobotFramework/132027" alt="robot-framework" width="35" height="35"/></a>
-
-
-
-http://forum.robotframework.org/
   
 </p>
 </br>
