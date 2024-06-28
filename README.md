@@ -6,21 +6,12 @@
 ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
 ![Asp](https://img.shields.io/badge/-Asp-333333?style=flat&logo=asp)
 ![VBnet](https://img.shields.io/badge/-VBnet-333333?style=flat&logo=vb)
-
-
-<h3>Frontend:</h3>
-
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-
-<h3>Database:</h3>
-
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 ![SqlServer](https://img.shields.io/badge/-SqlServer-333333?style=flat&logo=sqlserver)
 ![Oracle](https://img.shields.io/badge/-Oracle-333333?style=flat&logo=oracle)
-
-<h3>Other Skills:</h3>
 
 <p align="left">   
   <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="30" height="30"/> </a> 
