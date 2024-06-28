@@ -11,26 +11,18 @@
 ![SqlServer](https://img.shields.io/badge/-SqlServer-333333?style=flat&logo=sqlserver)
 ![Oracle](https://img.shields.io/badge/-Oracle-333333?style=flat&logo=oracle)
 
-<p align="left">   
-  <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="30" height="30"/> </a> 
-  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/> </a> 
-  <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="30" height="30"/> </a>  
+<p align="left">  
+<h4>Basic Skills:</h4>
   <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="30" height="30"/> </a> 
   <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://www.debian.org/logos/openlogo.svg" alt="debian" width="40" height="30"/> </a> 
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" 
   height="36" alt="Python" /></a>
-  
-  <a href="https://www.cypress.io" target="_blank"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/>
+  <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="30" height="30"/> </a> 
+  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/> </a> 
+  <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="30" height="30"/> </a>
+  <a href="https://www.cypress.io" target="_blank"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="35" height="35"/>
 </p>
-
-<h3>Quality Assurance:</h3>
-<p align="left">   
-  <a href="https://bstqb.online/img/selos/selo-ctfl.png" target="_blank"> <img src="https://bstqb.online/img/selos/selo-ctfl.png" alt="Certified Tester Foundation Level" width="100" height="100"/> </a> 
-  <a href="https://bstqb.online/img/selos/selo-ctfl-at.png" target="_blank"> <img src="https://bstqb.online/img/selos/selo-ctfl-at.png" alt="Certified Tester Agile Tester" width="100" height="100"/> </a>  
-</p>
-
-____
-
+    
 <div>
   <a href="https://github.com/thalesoliveira">
   <!--<img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thalesoliveira&layout=compact&langs_count=3&theme=dark"/>-->
