@@ -1,7 +1,5 @@
 
-### Tech Stack
-
-<h3>Backend:</h3>
+### Tech Stacks
 
 ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
 ![Asp](https://img.shields.io/badge/-Asp-333333?style=flat&logo=asp)
@@ -22,11 +20,7 @@
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" 
   height="36" alt="Python" /></a>
   
-  <!--<a href="https://www.cypress.io" target="_blank"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a>-->
-  <!--<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://www.cypress.io" target="_blank" rel="noreferrer"><img src="https://static-00.iconduck.com/assets.00/cypress-icon-512x511-29zvfts6.png" width="36" height="36" alt="Cypress" /></a>
-  
-  -->
+  <a href="https://www.cypress.io" target="_blank"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/>
 </p>
 
 <h3>Quality Assurance:</h3>
