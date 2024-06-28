@@ -40,8 +40,8 @@
 
 <h3>Quality Assurance:</h3>
 <p align="left">   
-  <a href="https://bstqb.online/" target="_blank"> <img src="https://bstqb.online/img/selos/selo-ctfl.png" alt="Certified Tester Foundation Level" width="80" height="80"/> </a> 
-  <a href="https://bstqb.online/" target="_blank"> <img src="https://bstqb.online/img/selos/selo-ctfl-at.png" alt="Certified Tester Agile Tester" width="80" height="80"/> </a>  
+  <a href="https://bstqb.online/img/selos/selo-ctfl.png" target="_blank"> <img src="https://bstqb.online/img/selos/selo-ctfl.png" alt="Certified Tester Foundation Level" width="100" height="100"/> </a> 
+  <a href="https://bstqb.online/img/selos/selo-ctfl-at.png" target="_blank"> <img src="https://bstqb.online/img/selos/selo-ctfl-at.png" alt="Certified Tester Agile Tester" width="100" height="100"/> </a>  
 </p>
 
 ____
